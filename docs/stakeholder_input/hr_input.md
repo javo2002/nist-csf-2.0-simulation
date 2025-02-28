@@ -1,6 +1,6 @@
 # Meeting Minutes: HR Director Input
 
-## Date: October 14, 2023  
+## Date: October 14, 2024  
 ## Attendees:  
 - Bob (Cybersecurity Lead)  
 - Eve (HR Director)  
@@ -22,10 +22,10 @@
    - Employees are unaware of phishing risks and social engineering tactics.  
 
 ## Action Items:  
-1. Bob to develop a cybersecurity training program by Q3 2024.  
-2. Eve to update the employee handbook with cybersecurity policies by Q1 2024.  
-3. Bob to conduct a phishing awareness campaign by Q2 2024.  
+1. Bob to develop a cybersecurity training program by Q3 2025.  
+2. Eve to update the employee handbook with cybersecurity policies by Q1 2025.  
+3. Bob to conduct a phishing awareness campaign by Q2 2025.  
 
 ## Next Meeting:  
-- Date: November 14, 2023  
+- Date: November 14, 2024  
 - Agenda: Review draft cybersecurity policies and training program.  
