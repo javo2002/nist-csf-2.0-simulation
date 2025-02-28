@@ -5,15 +5,15 @@ CyberTech Inc. aims to achieve **Tier 3 (Repeatable)** by 2026. At this Tier, cy
 
 ## Key Goals
 1. **Governance**:  
-   - Integrate cybersecurity risks into enterprise risk management (ERM) (Target: Q2 2024).  
-   - Conduct quarterly reviews of cybersecurity performance (Target: Q2 2024).  
+   - Integrate cybersecurity risks into enterprise risk management (ERM) (Target: Q2 2025).  
+   - Conduct quarterly reviews of cybersecurity performance (Target: Q2 2025).  
 
 2. **Risk Management**:  
-   - Automate asset and patch management (Target: Q4 2024).  
-   - Conduct regular tabletop exercises for incident response (Target: Q4 2024).  
+   - Automate asset and patch management (Target: Q4 2025).  
+   - Conduct regular tabletop exercises for incident response (Target: Q4 2025).  
 
 3. **Communication**:  
-   - Share cybersecurity information routinely across the organization (Target: Q3 2024).  
+   - Share cybersecurity information routinely across the organization (Target: Q3 2025).  
 
 ## Evidence
 - ERM integration and quarterly reviews documented (see `target_profile/govern.md`).  
