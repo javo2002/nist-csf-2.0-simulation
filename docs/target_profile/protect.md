@@ -5,20 +5,20 @@ The PROTECT Function focuses on implementing safeguards to manage cybersecurity 
 
 ## Target Outcomes
 1. **Access Control (PR.AA-03)**:
-   - Enforce multi-factor authentication (MFA) for all privileged accounts by Q2 2024.
+   - Enforce multi-factor authentication (MFA) for all privileged accounts by Q2 2025.
    - Implement strong password policies.
 2. **Data Security (PR.DS-11)**:
-   - Test backups quarterly and store copies offsite by Q2 2024.
+   - Test backups quarterly and store copies offsite by Q2 2025.
    - Implement encryption for sensitive data at rest and in transit.
 3. **Awareness and Training (PR.AT-01)**:
-   - Develop and deliver mandatory cybersecurity training for employees by Q3 2024.
+   - Develop and deliver mandatory cybersecurity training for employees by Q3 2025.
 4. **Platform Security (PR.PS-01)**:
-   - Establish formal configuration management practices by Q4 2024.
+   - Establish formal configuration management practices by Q4 2025.
 
 ## Timeline
-- Q2 2024: Implement MFA and test backups.
-- Q3 2024: Deliver cybersecurity training.
-- Q4 2024: Establish configuration management.
+- Q2 2025: Implement MFA and test backups.
+- Q3 2025: Deliver cybersecurity training.
+- Q4 2025: Establish configuration management.
 
 ## Key Metrics
 - MFA enforced for all privileged accounts.
