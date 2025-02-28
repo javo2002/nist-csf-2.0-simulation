@@ -20,6 +20,6 @@ CyberTech Inc. is currently at **Tier 1 (Partial)**. Cybersecurity practices are
 - Partial asset inventory and ad-hoc risk assessments (see `current_profile/identify.md`).  
 
 ## Next Steps
-- Develop a formal cybersecurity policy (Target: Q1 2024).  
-- Complete asset inventories and conduct risk assessments (Target: Q2 2024).  
-- Progress to **Tier 2 (Risk Informed)** by end of 2024.  
+- Develop a formal cybersecurity policy (Target: Q1 2025).  
+- Complete asset inventories and conduct risk assessments (Target: Q2 2025).  
+- Progress to **Tier 2 (Risk Informed)** by end of 2025.  
