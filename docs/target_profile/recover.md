@@ -5,14 +5,14 @@ The RECOVER Function focuses on restoring operations after a cybersecurity incid
 
 ## Target Outcomes
 1. **Recovery Plan Execution (RC.RP-03)**:
-   - Develop and test a recovery plan by Q2 2024.
+   - Develop and test a recovery plan by Q2 2025.
    - Ensure backups are verified before use.
 2. **Recovery Communication (RC.CO-03)**:
-   - Establish processes for communicating recovery progress to stakeholders by Q3 2024.
+   - Establish processes for communicating recovery progress to stakeholders by Q3 2025.
 
 ## Timeline
-- Q2 2024: Develop and test recovery plan.
-- Q3 2024: Establish recovery communication processes.
+- Q2 2025: Develop and test recovery plan.
+- Q3 2025: Establish recovery communication processes.
 
 ## Key Metrics
 - Recovery plan documented and tested.
