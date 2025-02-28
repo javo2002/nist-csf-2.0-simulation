@@ -1,6 +1,6 @@
 # Meeting Minutes: Executive Input (CEO/CFO)
 
-## Date: October 10, 2023  
+## Date: October 10, 2024  
 ## Attendees:  
 - Bob (Cybersecurity Lead)  
 - Alice (CEO)  
@@ -24,9 +24,9 @@
    - Quarterly reviews of cybersecurity performance.  
 
 ## Action Items:  
-1. Bob to draft a cybersecurity policy by Q1 2024.  
-2. Bob to define roles (e.g., CISO, incident coordinator) by Q1 2024.  
-3. Bob to integrate cybersecurity risks into ERM by Q2 2024.  
+1. Bob to draft a cybersecurity policy by Q1 2025.  
+2. Bob to define roles (e.g., CISO, incident coordinator) by Q1 2025.  
+3. Bob to integrate cybersecurity risks into ERM by Q2 2025.  
 
 ## Next Meeting:  
 - Date: November 10, 2023  
