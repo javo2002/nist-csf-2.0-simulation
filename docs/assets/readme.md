@@ -21,10 +21,4 @@ This folder contains visual aids to support the NIST CSF 2.0 project documentati
 4. **`tier_progression.png`**:  
    - **Description**: A visual representation of CyberTech Inc.'s progression through the NIST CSF Tiers (Tier 1: Partial → Tier 4: Adaptive).  
    - **Purpose**: Demonstrates the organization's roadmap for improving its cybersecurity practices.  
-   - **Usage**: Use in presentations or documentation to explain the Tier progression plan.  
-
-## How to Use
-1. **View the Images**: Open the `.png` files in any image viewer.  
-2. **Include in Documentation**: Embed the images in markdown files or presentations using the following syntax:  
-   ```markdown
-   ![Alt Text](assets/filename.png)
+   - **Usage**: Use in presentations or documentation to explain the Tier progression plan.
