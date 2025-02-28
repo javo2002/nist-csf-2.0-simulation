@@ -29,5 +29,5 @@
 3. Bob to integrate cybersecurity risks into ERM by Q2 2025.  
 
 ## Next Meeting:  
-- Date: November 10, 2023  
+- Date: November 10, 2024  
 - Agenda: Review draft cybersecurity policy and roles.  
