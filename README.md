@@ -68,3 +68,43 @@ nist-csf-2.0-project/
 ├── LICENSE                    # Project license (e.g., MIT, Apache 2.0)
 └── CONTRIBUTING.md            # Guidelines for contributors (e.g., friends)
 ```
+
+---
+
+## How to Use This Repository
+
+1. **Navigate the Documentation**:
+   - Explore the `docs/` folder to view detailed documentation for each section (e.g., Current Profile, Target Profile, Gap Analysis).
+   - Use the `templates/` folder for reusable templates (e.g., risk register, incident playbook).
+
+2. **View Visual Aids**:
+   - Check the `assets/` folder for diagrams and charts that explain key concepts (e.g., NIST CSF Functions, Tier progression).
+
+3. **Contribute**:
+   - If you'd like to contribute, follow the guidelines in `CONTRIBUTING.md`.
+
+4. **License**:
+   - This project is licensed under the MIT License. See `LICENSE` for details.
+
+---
+
+## Key Features
+
+- **Current Profile**: Documents CyberTech Inc.'s existing cybersecurity posture.
+- **Target Profile**: Outlines desired cybersecurity outcomes and timelines.
+- **Gap Analysis**: Identifies gaps between Current and Target Profiles.
+- **Tier Progression**: Provides a roadmap for improving cybersecurity practices.
+- **Stakeholder Input**: Includes meeting notes from discussions with key stakeholders.
+- **Templates**: Offers reusable templates for risk management and incident response.
+
+---
+
+## Contact
+
+For questions or feedback, please open an issue in this repository or contact Javier Williams at javier.williams.tech@gmail.com.
+
+---
+
+## Acknowledgments
+
+Special thanks to my friends for acting as stakeholders and providing valuable
