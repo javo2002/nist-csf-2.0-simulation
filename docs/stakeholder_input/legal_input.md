@@ -1,6 +1,6 @@
 # Meeting Minutes: Legal/Compliance Officer Input
 
-## Date: October 16, 2023  
+## Date: October 16, 2024  
 ## Attendees:  
 - Bob (Cybersecurity Lead)  
 - Frank (Legal/Compliance Officer)  
@@ -22,10 +22,10 @@
    - Include cybersecurity requirements in third-party contracts.  
 
 ## Action Items:  
-1. Bob to develop an incident response plan by Q2 2024.  
-2. Frank to review and update third-party contracts with cybersecurity clauses by Q3 2024.  
+1. Bob to develop an incident response plan by Q2 2025.  
+2. Frank to review and update third-party contracts with cybersecurity clauses by Q3 2025.  
 3. Bob to document cybersecurity practices for compliance audits.  
 
 ## Next Meeting:  
-- Date: November 16, 2023  
+- Date: November 16, 2024  
 - Agenda: Review incident response plan and updated contracts.  
