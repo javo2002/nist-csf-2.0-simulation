@@ -83,9 +83,6 @@ nist-csf-2.0-project/
 3. **Contribute**:
    - If you'd like to contribute, follow the guidelines in `CONTRIBUTING.md`.
 
-4. **License**:
-   - This project is licensed under the MIT License. See `LICENSE` for details.
-
 ---
 
 ## Key Features
@@ -107,4 +104,4 @@ For questions or feedback, please open an issue in this repository or contact Ja
 
 ## Acknowledgments
 
-Special thanks to my friends for acting as stakeholders and providing valuable
+Special thanks to my friends for acting as stakeholders and to provide valuable data for NIST CSF 2.0 implementation.
