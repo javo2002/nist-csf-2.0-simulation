@@ -1,6 +1,6 @@
 # NIST CSF 2.0 Project Documentation
 
-This repository documents a fictitious implementation of the NIST Cybersecurity Framework (CSF) 2.0 for CyberTech Inc., a small company with 50 employees. My role as a new Cybersecurity Analyst was to help the company with it's security posture. The project demonstrates my understanding of NIST CSF 2.0 by creating Current and Target Profiles, conducting a gap analysis, and planning Tier progression.
+This repository documents an implementation of the NIST Cybersecurity Framework (CSF) 2.0 for CyberTech Inc., a ficticious small company with 50 employees. My role as a new Cybersecurity Analyst was to help the company with it's security posture. The project demonstrates my understanding of NIST CSF 2.0 by creating Current and Target Profiles, conducting a gap analysis, and planning Tier progression.
 
 My Role: Bob (Cyber Security Analyst)
 
