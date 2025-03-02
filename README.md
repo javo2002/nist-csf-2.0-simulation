@@ -2,6 +2,14 @@
 
 This repository documents a fictitious implementation of the NIST Cybersecurity Framework (CSF) 2.0 for CyberTech Inc., a small company with 50 employees. The project demonstrates my understanding of NIST CSF 2.0 by creating Current and Target Profiles, conducting a gap analysis, and planning Tier progression.
 
+## Job Ad
+
+For a detailed job description, view the embedded PDF below:
+
+<iframe src="assets/job_ad.pdf" width="100%" height="600px"></iframe>
+
+Or, [download the PDF](assets/job_ad.pdf).
+
 ## Project Structure
 - **docs/**: Detailed documentation of the project, including Current/Target Profiles, gap analysis, and stakeholder input.
 - **assets/**: Visual aids (e.g., diagrams, charts) to explain NIST CSF concepts.
