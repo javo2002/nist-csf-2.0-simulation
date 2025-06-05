@@ -106,7 +106,7 @@ nist-csf-2.0-project/
 
 ## Contact
 
-For questions or feedback, please open an issue in this repository or contact Javier Williams at javier.williams.tech@gmail.com.
+For questions or feedback, please open an issue in this repository or contact Javier Williams at jnajwilliams@gmail.com.
 
 ---
 
